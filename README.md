@@ -87,7 +87,7 @@ Built with **Streamlit**, this application allows users to upload datasets and i
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/ai-data-analyst.git
+git clone https://github.com/Nikh56/LLM-BASED-EDA.git
 
 # Navigate to project folder
 cd ai-data-analyst
